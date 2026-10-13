@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": 2,
+        "nome": "Neymar",
+        "nacionalidade": "BR",
+        "posicao": "Atacante"
+    },
+    {
+        "codigo": 3,
+        "nome": "Endou",
+        "nacionalidade": "JPN",
+        "posicao": "Goleiro"
+    },
+    {
+        "codigo": 1,
+        "nome": "Someoka",
+        "nacionalidade": "JPN",
+        "posicao": "Atacante"
+    },
+    {
+        "codigo": 4,
+        "nome": "Kazemaru",
+        "nacionalidade": "JPN",
+        "posicao": "Defensor"
+    }
+]
